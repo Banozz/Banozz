@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there.
+Known by a few names: **Iban/Ban/Banozz.**
+Part-time programmer, full-time speed enthusiast.
+
 
 <!--
 **Banozz/Banozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
