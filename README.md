@@ -5,7 +5,7 @@ Part-time programmer, full-time speed enthusiast.
 ## Tech Stacks
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 <a href="#"><img align="left" alt="Laravel" title="Laravel" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/640px-Laravel.svg.png" /></a>
-<a href="#"><img align="left" alt="SQL" title="SQL" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/640px-Sql_data_base_with_logo.svg.png" /></a>
+<a href="#"><img align="left" alt="SQL" title="SQL" width="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/640px-Sql_data_base_with_logo.svg.png" /></a>
 
 <!--
 **Banozz/Banozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
