@@ -2,7 +2,8 @@
 Known by a few names: **Iban/Ban/Banozz.**<br>
 Part-time programmer, full-time speed enthusiast.
 
-
+## Tech Stacks
+<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 <!--
 **Banozz/Banozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
