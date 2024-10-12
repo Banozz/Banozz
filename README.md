@@ -1,6 +1,7 @@
 ## Hi there.
 Known by a few names: **Iban/Ban/Banozz.**<br>
-Part-time programmer, full-time speed enthusiast.
+I code for the thrill of the unknown. The constant pursuit of the knowledge offered by each work is a high I'd wish on every sentient being. <br><br>
+**Let this Github page be an eternal proof that I am amongst those who've tried.**
 
 ## Tech Stacks
 <a href="#"><img align="left" alt="C++" title="C++" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" /></a>
